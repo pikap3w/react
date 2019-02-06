@@ -1,0 +1,11 @@
+.language {
+  display: flex;
+  font-size: 1.3em;
+  border: 1px black;
+  text-align: center;
+  align-content: space-between;
+}
+
+.button {
+  background-color: blue;
+}
