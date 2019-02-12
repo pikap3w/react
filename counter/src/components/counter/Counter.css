@@ -1,0 +1,13 @@
+button {
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border: 1px solid #fff;
+  font-size: 16px;
+  color: #fff;
+  /* background: blue; */
+  z-index: 1;
+  cursor: pointer;
+  outline: none;
+}
